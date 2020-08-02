@@ -12,9 +12,9 @@ Here we provide the data and code for: What do time-use patterns tell us about o
 
 
 # Organization
-- `/R/SCRIPTS/`  — Scripts and output for figures included in the short communication.
-- `/R/DATA-RAW/`  — Initial data resources, unprocessed.
-- `/R/DATA-PROCESSED/` — Post-processed data for the analysis, saved at the end of the code.
+- `/CODE/`  — Scripts and output for figures included in the short communication.
+- `/DATA-RAW/`  — Initial data resources, unprocessed.
+- `/DATA-PROCESSED/` — Post-processed data for the analysis, saved at the end of the code.
 
 # Use
 - Feel free to create a new branch for further analysis.
