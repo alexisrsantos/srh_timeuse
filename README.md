@@ -7,7 +7,7 @@ Faytong-Haro, Marco and Santos-Lozada, Alexis R. (XXXX). What do time-use patter
 Here we provide the data and code for: What do time-use patterns tell us about of self-reported health in the United States?
 
 # Abstract
->  [Abstract goes here]
+>  This brief report provides new evidence regarding the validity of self-rated health (SRH) for racial/ethnic comparisons in the United States by analyzing time-use patterns among 27,068 mid-age adults who participated in the American Time Use Survey 2013-2016. We found comparable differences by health status for non-Hispanic whites, non-Hispanic blacks, and Hispanics who answer in English. Differences in time use by health status for Hispanics who answer in Spanish diverge from the other groups. Using time use as a validation instrument, the results suggest that caution should be exercised when comparing diverse samples that include surveys administered in different languages.
 
 
 
