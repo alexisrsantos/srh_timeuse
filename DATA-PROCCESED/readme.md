@@ -1,7 +1,7 @@
-#Post processed files 
+# Post-processed files 
 Data proccesed using the SAS code goes here. 
 
-# Content
+## Content
 
 * atus_00003.sas7bdat - this is the post-processed file, without any recoding. 
 * atus_00003_f.sas7bdat - this is the SAS format file. 
